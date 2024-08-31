@@ -9,4 +9,7 @@
 
 원본 논문: Khandakar Tanvir Ahmed et al., “Multi-omics data integration by generative adversarial network,” Bioinformatics, Volume 38, Issue 1, January 2022, Pages 179–186, https://doi.org/10.1093/bioinformatics/btab608
 
+omicsGAN.py, omics1.py, omics2.py에 대한
 원본 코드: https://github.com/CompbioLabUCF/omicsGAN
+
+command example: python 5 omicsGAN.py omics1.csv omics2.csv interaction_network.csv label.csv
